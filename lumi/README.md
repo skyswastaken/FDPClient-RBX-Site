@@ -1,1 +1,1 @@
-# Skiddermc.github.io/lumi
+# what the actual fuck am I doing 
