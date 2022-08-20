@@ -1,6 +1,5 @@
-# skiddermc.github.io
-This repo serves as a mirror to some dependencies fdp requires to build <br>
-In the future it will also be a website for skiddermc
+# NOT MC FDP ITS A VERSION FOR ROBLOX ONLY.
 
-want to download fdp and u got confused?
-https://fdpinfo.github.io
+
+want to get fdp and u got confused?
+dm skys#9826 or join the official fdp discord server
